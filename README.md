@@ -53,3 +53,11 @@ xdebug.remote_port = 9001
 http://localhost:7000/ 即可
 
 调试的话在idea里面需要装php插件，具体怎么配，在网上能找到
+
+此镜像已上传到 https://hub.docker.com/
+
+阿里云有加速镜像 
+docker pull registry.cn-hangzhou.aliyuncs.com/362228416/php-fpm
+
+阿里云docker仓库
+https://dev.aliyun.com/search.html
